@@ -1,0 +1,4 @@
+/* Add the import statement if it's not already present */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
