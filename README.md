@@ -1,4 +1,4 @@
-Here's a basic documentation outline for your dictionary app built with React, Tailwind CSS, and an API. This documentation includes sections for getting started, project structure, usage, and components.
+Here’s the updated documentation with the live website link included:
 
 ---
 
@@ -10,8 +10,9 @@ Here's a basic documentation outline for your dictionary app built with React, T
 3. [Project Structure](#project-structure)
 4. [Usage](#usage)
 5. [Components](#components)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [Live Website](#live-website)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Introduction
 The **Dictionary App** is a web application built with React that allows users to search for words and view their meanings, synonyms, and antonyms using the [Dictionary API](https://dictionaryapi.dev/). The app is styled using Tailwind CSS for a responsive and modern UI.
@@ -101,6 +102,9 @@ Displays a list of synonyms for the searched word.
 ### Antonyms.jsx
 Displays a list of antonyms for the searched word.
 
+## Live Website
+You can access the live version of the Dictionary App at [https://dictionary-app-eosin-eight.vercel.app/](https://dictionary-app-eosin-eight.vercel.app/).
+
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
@@ -114,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify any section or add more details as needed for your specific project. This documentation provides a solid foundation for understanding the project and how to get started with it.
+Feel free to add more details or modify sections as necessary!
